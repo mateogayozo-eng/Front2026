@@ -1,0 +1,68 @@
+body {background-color: rgb(179, 0, 80);}
+
+
+.ingredientes2 {color: #00b0ad;}
+
+.col2 {color: rgb(109, 64, 242);}
+
+.col3 {color: #00b731bc;}
+
+.col4 {color: darkblue;}
+
+.caldo {color: rgb(0, 22, 221);
+        text-decoration: underline;}
+
+.ingredientes {color: #8e51ffcb;
+               text-decoration: underline;}
+
+
+.titulo {color: #e4171a; 
+         text-align: center;
+         font-size: 250%;
+         text-decoration: underline;}
+
+
+
+.desc {font-size: 165%; 
+       text-align: center;}
+
+
+.bolitas {text-decoration: underline;}
+
+
+.preparacion {text-decoration: underline;}
+
+
+.linksrec {text-decoration: underline;}
+
+
+.contacto {text-decoration: underline;}
+
+
+.redes {text-align: center;
+        font-size: 250%;}
+
+
+.insta {text-align: center;
+        border: 5px solid #00b0ad;
+        height: 220px;
+        }
+
+
+.twitt {text-align: left;
+       height: 200px;
+       border: 10px solid red;}
+
+
+.facebo {text-align:right;
+         height: 200px;
+         border: 40px solid green;}
+
+
+.inicio {font-size: 190%;}
+
+
+.pag2 {font-size: 120%;}
+
+
+.fotovori {border: 5px green;}
